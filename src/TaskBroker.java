@@ -1,5 +1,3 @@
-package model;
-
 import javafx.util.Pair;
 
 import java.time.LocalDateTime;
